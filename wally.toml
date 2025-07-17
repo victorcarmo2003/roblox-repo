@@ -16,4 +16,4 @@ matter = "matter-ecs/matter@0.8.4"
 cmdr = "evaera/cmdr@1.12.0"
 
 [server-dependencies]
-profilestore = "vyon/profilestore@1.0.3"git push -u origin main
+profilestore = "vyon/profilestore@1.0.3"
